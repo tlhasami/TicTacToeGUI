@@ -42,11 +42,11 @@ The game also supports **user login and sign-up** functionality with persistent 
 
 ### Prerequisites
 - C++ compiler (C++11 or higher)
-- [SFML 2.x](https://www.sfml-dev.org/)
+- [SFML 2.6](https://www.sfml-dev.org/)
 - Standard C++ libraries: `iostream`, `fstream`, `vector`, `string`
 
 ### Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-sfml.git
+git clone https://github.com/tlhasami/TicTacToeGUI.git
 cd tic-tac-toe-sfml
